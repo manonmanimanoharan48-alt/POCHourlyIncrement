@@ -1,12 +1,12 @@
 **Explored on Data validation frameworks using Great Expectations (GX).**
  
-1.Foundations -Understand Data Quality Concepts.
-2.Setup Great Expectations (GX)
-3.Core GX Concepts
-4.Integrate GX in Data Engineering Environments
-5.Data Validation with Checkpoints
-6.Add GX to ETL / ELT Pipelines
-7.Generate Data Docs (Validation Reports)
+1. Foundations -Understand Data Quality Concepts.
+2. Setup Great Expectations (GX)
+3. Core GX Concepts
+4. Integrate GX in Data Engineering Environments
+5. Data Validation with Checkpoints
+6. Add GX to ETL / ELT Pipelines
+7. Generate Data Docs (Validation Reports)
  
 **Project Example: GX with Fabric Lakehouse**
 Integrated great expectation with "Implementing incremental aggregation process in Pyspark notebook using global API data" task.
